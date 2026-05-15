@@ -1,9 +1,17 @@
-# Sistema de Gestión Académica - Árbol Binario de Búsqueda 
+# Sistema de Gestión Académica - Árbol Binario de Búsqueda en JAVA
 
-## 🎓 Autor
-**Fernando Llerena** Estudiante de Ingeniería de Software  
-Universidad Técnica de Ambato (UTA) 
-**Lenguaje utilizado:** Java
+*Estudiante:* Fernando Llerena
+
+*Semestre:* Tercer Semestre  
+
+*Universidad:* Universidad Técnica de Ambato (UTA)  
+
+*Carrera:* Ingeniería de Software  
+
+*Asignatura:* Estructura de Datos  
+
+---
+
 
 Este proyecto es una implementación de un sistema académico desarrollado para la **Universidad Técnica de Ambato**. El objetivo es gestionar la información de estudiantes utilizando estructuras de datos avanzadas, específicamente **Árboles Binarios de Búsqueda (BST)** en Java.
 
